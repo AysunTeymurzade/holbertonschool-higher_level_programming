@@ -1,3 +1,4 @@
+>>> from add_integer import add_integer
 >>> add_integer(1, 2)
 3
 
